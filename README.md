@@ -40,7 +40,7 @@ This repository contains code and documentation for an image processing assignme
 
 ## Requirements
 
-- Python 3.x
+- Python 3.13.3
 - OpenCV
 - NumPy
 - Matplotlib
