@@ -20,11 +20,6 @@ This repository contains code and documentation for an image processing assignme
 
 ### 2. Sobel Filtering
 - Implement Sobel filtering using the separable property of Sobel kernels:
-  
-  \[
-  \begin{bmatrix} 1 & 0 & -1 \\ 2 & 0 & -2 \\ 1 & 0 & -1 \end{bmatrix} = \begin{bmatrix} 1 \\ 2 \\ 1 \end{bmatrix} * \begin{bmatrix} 1 & 0 & -1 \end{bmatrix}
-  \]
-
 - Compute horizontal (Sobel X) and vertical (Sobel Y) edge maps.
 - Visualize the results separately without combining them into gradient magnitude.
 
